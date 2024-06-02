@@ -1,4 +1,4 @@
-# Jsonr Repair
+# Json Repair
 
 The project is created from https://github.com/josdejong/jsonrepair project, which is a Javascript based solution for repairing bad or incomplete json data.
 It has been ported as python class.
