@@ -1,5 +1,5 @@
 import json
-from stringutils import *
+from ssm_jsonrepair.stringutils import *
 
 
 class JSONRepairError(Exception):

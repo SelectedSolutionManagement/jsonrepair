@@ -29,7 +29,7 @@ The following issues can be fixed:
 
 # Usage:
 ```
-from jsonrepair import JsonRepair
+from ssm_jsonrepair import JsonRepair
 
 data = '[[{"$match":{"agent.name:{"$exists":1}}}]]'
 jr = JsonRepair()
